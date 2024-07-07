@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{926B5F62-F7EE-4B54-B22E-5A28B4D90D36}|Blog.csproj|c:\\dev\\blog\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{926B5F62-F7EE-4B54-B22E-5A28B4D90D36}|Blog.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926B5F62-F7EE-4B54-B22E-5A28B4D90D36}|Blog.csproj|c:\\dev\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926B5F62-F7EE-4B54-B22E-5A28B4D90D36}|Blog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926B5F62-F7EE-4B54-B22E-5A28B4D90D36}|Blog.csproj|c:\\dev\\blog\\extensions\\modalstateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926B5F62-F7EE-4B54-B22E-5A28B4D90D36}|Blog.csproj|solutionrelative:extensions\\modalstateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926B5F62-F7EE-4B54-B22E-5A28B4D90D36}|Blog.csproj|c:\\dev\\blog\\blog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{926B5F62-F7EE-4B54-B22E-5A28B4D90D36}|Blog.csproj|solutionrelative:blog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926B5F62-F7EE-4B54-B22E-5A28B4D90D36}|Blog.csproj|c:\\dev\\blog\\viewmodels\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926B5F62-F7EE-4B54-B22E-5A28B4D90D36}|Blog.csproj|solutionrelative:viewmodels\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926B5F62-F7EE-4B54-B22E-5A28B4D90D36}|Blog.csproj|c:\\dev\\blog\\viewmodels\\editorcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926B5F62-F7EE-4B54-B22E-5A28B4D90D36}|Blog.csproj|solutionrelative:viewmodels\\editorcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,15 +44,78 @@
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
               "ToolTip": "C:\\dev\\Blog\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAANAAAA",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAIwI4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T17:29:56.459Z",
+              "WhenOpened": "2024-07-03T22:41:55.87Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModalStateExtensions.cs",
+              "DocumentMoniker": "C:\\dev\\Blog\\Extensions\\ModalStateExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ModalStateExtensions.cs",
+              "ToolTip": "C:\\dev\\Blog\\Extensions\\ModalStateExtensions.cs",
+              "RelativeToolTip": "Extensions\\ModalStateExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:02:04.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog",
+              "DocumentMoniker": "C:\\dev\\Blog\\Blog.csproj",
+              "RelativeDocumentMoniker": "Blog.csproj",
+              "ToolTip": "C:\\dev\\Blog\\Blog.csproj",
+              "RelativeToolTip": "Blog.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-07T15:01:28.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\Blog\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\dev\\Blog\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:57:50.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultViewModel.cs",
+              "DocumentMoniker": "C:\\dev\\Blog\\ViewModels\\ResultViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ResultViewModel.cs",
+              "ToolTip": "C:\\dev\\Blog\\ViewModels\\ResultViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ResultViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:57:16.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditorCategoryViewModel.cs",
+              "DocumentMoniker": "C:\\dev\\Blog\\ViewModels\\EditorCategoryViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EditorCategoryViewModel.cs",
+              "ToolTip": "C:\\dev\\Blog\\ViewModels\\EditorCategoryViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EditorCategoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:41:11.538Z"
             }
           ]
         }
